@@ -1,4 +1,3 @@
-School Grades Pandas Project
 Welcome to the School Grades Pandas project! This project involves the development of a bot designed to assist teachers in managing their students' grades efficiently.
 
 Features
