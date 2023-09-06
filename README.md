@@ -15,15 +15,21 @@ Getting Started
 To get started with the School Grades Pandas project, simply run the provided code. You can interact with the bot to manage and analyze student grades, and customize it further to suit your needs.
 
 Dependencies
-This project relies on the following dependencies:
 
 Python
+
 pandas
+
 numpy
+
 matplotlib
+
 faker
+
 IPython.display
+
 random
+
 
 Ensure you have these libraries installed in your Python environment to run the project successfully.
 
