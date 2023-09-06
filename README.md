@@ -18,18 +18,13 @@ Dependencies
 This project relies on the following dependencies:
 
 Python
-
 pandas
-
 numpy
-
 matplotlib
-
 faker
-
 IPython.display
-
 random
+
 Ensure you have these libraries installed in your Python environment to run the project successfully.
 
 Contribute
