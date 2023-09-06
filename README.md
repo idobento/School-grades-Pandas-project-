@@ -17,19 +17,12 @@ To get started with the School Grades Pandas project, simply run the provided co
 Dependencies
 
 Python
-
 pandas
-
 numpy
-
 matplotlib
-
 faker
-
 IPython.display
-
 random
-
 
 Ensure you have these libraries installed in your Python environment to run the project successfully.
 
